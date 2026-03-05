@@ -1,1 +1,5 @@
-
+Numpy
+Pandas
+Matplotlib
+Seaborn
+Sci-kit learn
